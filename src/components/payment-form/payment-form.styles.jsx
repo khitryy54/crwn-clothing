@@ -16,5 +16,4 @@ min-width: 500px;
 export const PaymentButton = styled(Button)`
   margin-left: auto;
   margin-top: 30px;
-  background-color: red;
 `
